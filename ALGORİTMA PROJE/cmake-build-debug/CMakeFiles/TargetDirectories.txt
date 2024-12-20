@@ -1,0 +1,3 @@
+C:/Users/berkp/OneDrive/Desktop/ALGORİTMA PROJE/cmake-build-debug/CMakeFiles/ALGORTMA_PROJE.dir
+C:/Users/berkp/OneDrive/Desktop/ALGORİTMA PROJE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/berkp/OneDrive/Desktop/ALGORİTMA PROJE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

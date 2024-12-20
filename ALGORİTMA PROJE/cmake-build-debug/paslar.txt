@@ -1,0 +1,20 @@
+Cristiano Ronaldo 20 0
+Lionel Messi 30 4
+Arda Güler 43 11
+Kylian Mbappe 7 2
+Neymar Jr. 11 3
+Erling Haaland 9 5
+Kevin De Bruyne 17 8
+Mohamed Salah 11 1
+Virgil Van Dijk 4 7
+Robert Lewandowski 9 6
+Harry Kane 10 9
+Karim Benzema 9 0
+Paulo Dybala 21 2
+Gareth Bale 11 10
+Luka Modric 10 4
+Sergio Ramos 4 3
+Alphonso Davies 19 5
+Zlatan Ibrahimovic 10 6
+Andres Iniesta 8 7
+Edinson Cavani 21 0
